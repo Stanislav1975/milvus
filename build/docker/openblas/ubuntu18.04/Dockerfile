@@ -1,4 +1,4 @@
-FROM ubuntu:bionic-20210930
+FROM ubuntu:bionic
 
 # pipefail is enabled for proper error detection in the `wget | apt-key add`
 # step
