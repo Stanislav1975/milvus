@@ -24,4 +24,4 @@ delayed-assert
 kubernetes==17.17.0
 PyYAML==5.4.1
 pytest-sugar==0.9.4
-setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
