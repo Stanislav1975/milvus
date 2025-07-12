@@ -25,3 +25,5 @@ kubernetes==17.17.0
 PyYAML==5.4.1
 pytest-sugar==0.9.4
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
